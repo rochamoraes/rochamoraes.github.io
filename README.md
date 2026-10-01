@@ -9,12 +9,12 @@ Site pessoal de **César Augusto da Rocha Moraes**, Senior QA Engineer atuando c
 ## Tecnologias
 
 - [React](https://react.dev) 18
-- [Vite](https://vitejs.dev) 5
+- [Vite](https://vitejs.dev) 8
 - GitHub Pages + GitHub Actions
 
 ## Rodando localmente
 
-Requer [Node.js](https://nodejs.org) 20 ou superior.
+Requer [Node.js](https://nodejs.org) 20.19+ ou 22.12+.
 
 ```bash
 npm install
