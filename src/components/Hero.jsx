@@ -18,9 +18,10 @@ export default function Hero() {
             <span className="hero__sep">·</span> Backend Engineering
           </p>
           <p className="hero__pitch">
-            Mais de 15 anos de tecnologia evoluindo de Quality Engineering para Engenharia de
-            Software com foco em Backend, unindo pensamento sistêmico, validações sólidas e
-            arquitetura bem estruturada para construir sistemas confiáveis.
+            Mais de 15 anos em tecnologia unindo Quality Engineering e Engenharia de Software:
+            lidero a qualidade de aplicações web e aprofundo minha atuação em backend, com
+            pensamento sistêmico, validações sólidas e arquitetura bem estruturada para construir
+            sistemas confiáveis.
           </p>
           <div className="hero__actions">
             <a className="btn btn--primary" href="#contato">
