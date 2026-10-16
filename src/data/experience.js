@@ -1,6 +1,6 @@
 export const experience = [
   {
-    role: 'Senior Software Test Analyst',
+    role: 'Senior QA Engineer',
     company: 'Grupo Voetur',
     type: 'Tempo integral',
     startDate: '2025-12-01',
