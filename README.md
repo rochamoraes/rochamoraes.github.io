@@ -8,7 +8,20 @@ Site pessoal de **César Augusto da Rocha Moraes**, Senior QA Engineer com mais 
 
 [![Deploy to GitHub Pages](https://github.com/rochamoraes/rochamoraes.github.io/actions/workflows/deploy.yml/badge.svg)](https://github.com/rochamoraes/rochamoraes.github.io/actions/workflows/deploy.yml)
 
-## Tecnologias
+## Ferramentas
+
+As ferramentas que uso no dia a dia, como aparecem na seção *Foco técnico* do site:
+
+| Grupo | Ferramentas |
+|---|---|
+| Automação de testes | Playwright, Selenium, Appium, TestComplete |
+| APIs e desempenho | Postman, Insomnia, Apache JMeter |
+| Dados, infra e depuração | SQL Server, PostgreSQL, Docker, Chrome DevTools |
+| Versionamento e gestão | Git, GitHub, GitLab, Jira, Freshdesk |
+
+A lista do site fica em [`src/components/Skills.jsx`](src/components/Skills.jsx), e as ferramentas de cada experiência em [`src/data/experience.js`](src/data/experience.js).
+
+## Tecnologias do site
 
 - [React](https://react.dev) 18
 - [Vite](https://vitejs.dev) 8
