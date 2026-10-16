@@ -36,9 +36,9 @@ export default function About() {
           <aside className="about__card">
             <h3>🎯 Objetivo profissional</h3>
             <p>
-              Consolidar minha atuação como Software Engineer com forte base em Quality
-              Engineering, contribuindo para sistemas escaláveis, resilientes e orientados ao
-              negócio.
+              Unir Quality Engineering e Engenharia de Software em uma atuação integrada:
+              liderando a qualidade e desenvolvendo sistemas backend escaláveis, resilientes e
+              orientados ao negócio.
             </p>
             <div className="about__quote">
               “Sistemas bem projetados nascem de decisões técnicas conscientes, validações sólidas
