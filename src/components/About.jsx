@@ -9,26 +9,27 @@ export default function About() {
           <div className="about__text">
             <p>
               Sou <strong>Senior QA Engineer</strong> com mais de 15 anos de experiência em
-              tecnologia, atuando de forma estratégica em Quality Engineering e evoluindo minha
-              atuação para Engenharia de Software com foco em Backend.
+              tecnologia. Hoje lidero a qualidade de aplicações web, da estratégia de testes à
+              validação em produção, e venho expandindo minha atuação para a Engenharia de
+              Software com foco em Backend.
             </p>
             <p>
-              Minha trajetória é multidisciplinar, com passagens por Business Intelligence,
-              infraestrutura de TI, automação de processos e modelagem de dados, o que me dá
-              visão sistêmica sobre arquitetura, integrações, fluxo de dados e impacto técnico
-              das decisões de produto.
+              Minha trajetória é multidisciplinar: passei por desenvolvimento e suporte, Business
+              Intelligence, infraestrutura de TI, automação de processos e modelagem de dados.
+              Essa bagagem me dá visão sistêmica sobre arquitetura, integrações, fluxo de dados e
+              o impacto técnico das decisões de produto.
             </p>
             <p>
-              Ao longo da carreira, atuei desde a definição de estratégias de teste e análise de
-              requisitos até testes de integração, APIs, validação de dados e automação. Essa
-              base sólida em qualidade me permite desenvolver soluções com foco em robustez,
-              escalabilidade e prevenção de falhas.
+              Ao longo da carreira, atuei da definição de estratégias de teste e análise de
+              requisitos a testes de integração, APIs, segurança, validação de dados e automação.
+              Essa base em qualidade orienta a forma como desenvolvo software: com foco em
+              robustez, escalabilidade e prevenção de falhas.
             </p>
             <p>
-              Atualmente aprofundo minha atuação em desenvolvimento backend utilizando{' '}
+              Atualmente aprofundo minha atuação em desenvolvimento backend com{' '}
               <strong>Node.js</strong>, <strong>TypeScript</strong>, <strong>SQL</strong> e
-              arquitetura de APIs, integrando princípios de engenharia de software, boas práticas
-              de código e pensamento sistêmico à construção de sistemas confiáveis.
+              arquitetura de APIs, unindo boas práticas de engenharia de software e pensamento
+              sistêmico à construção de sistemas confiáveis.
             </p>
           </div>
 
