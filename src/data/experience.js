@@ -35,7 +35,7 @@ export const experience = [
   },
   {
     role: 'Diversas atividades em T.I.',
-    company: 'Tecnologia',
+    company: 'Diversas empresas',
     type: 'Tempo integral',
     period: 'jan de 2011 - jul de 2016 · 5 anos 7 meses',
     location: 'Curitiba, Paraná, Brasil · No local',
