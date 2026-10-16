@@ -717,6 +717,15 @@ p {
   color: var(--text-muted);
 }
 
+.footer__made a {
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+
+.footer__made a:hover {
+  color: var(--accent);
+}
+
 /* ---------- Responsive ---------- */
 
 @media (max-width: 900px) {
