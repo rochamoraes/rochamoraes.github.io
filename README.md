@@ -1,5 +1,7 @@
 # rochamoraes.digital
 
+[![César Augusto da Rocha Moraes — Senior QA Engineer · Quality & Backend](public/og-image.jpg)](https://rochamoraes.digital)
+
 Site pessoal de **César Augusto da Rocha Moraes**, Senior QA Engineer atuando com Automação, APIs, SQL e Engenharia de Software Backend.
 
 🔗 **https://rochamoraes.digital**
@@ -33,6 +35,12 @@ O site abre em http://localhost:5173.
 ## Deploy
 
 Cada push na branch `main` dispara o workflow [`deploy.yml`](.github/workflows/deploy.yml), que roda o lint, gera o build e publica no GitHub Pages. Se o lint falhar, o deploy é interrompido e o site continua na versão anterior. O domínio personalizado é definido em [`public/CNAME`](public/CNAME).
+
+## Prévia de link
+
+Ao compartilhar o site no LinkedIn, WhatsApp, X e afins, a prévia usa as tags Open Graph e Twitter do [`index.html`](index.html) e a imagem [`public/og-image.jpg`](public/og-image.jpg) (1200×630).
+
+A imagem é um arquivo estático: ao mudar nome, cargo ou foto, gere uma nova versão. Para forçar o LinkedIn a buscar a prévia atualizada, use o [Post Inspector](https://www.linkedin.com/post-inspector/).
 
 ## Licença
 
