@@ -24,13 +24,13 @@ export const experience = [
     period: 'jul de 2016 - out de 2025 · 9 anos 4 meses',
     location: 'Curitiba, Paraná, Brasil · No local',
     summary:
-      'Atuação estratégica em Quality Assurance com foco na qualidade end-to-end das aplicações, do entendimento dos requisitos à validação final em produção.',
+      'Atuei de forma estratégica em Quality Assurance, garantindo a qualidade end-to-end das aplicações, do entendimento dos requisitos à validação final em produção.',
     highlights: [
-      'Planejamento, criação e execução de estratégias, planos e casos de teste orientados a requisitos técnicos, funcionais e de negócio, com foco em prevenção de falhas.',
-      'Análise profunda, reprodução e investigação de defeitos, transformando problemas reportados em insights técnicos acionáveis.',
-      'Documentação detalhada de bugs, apoio ativo na identificação de causas raiz e acompanhamento próximo das correções junto ao time de desenvolvimento.',
-      'Atuação em ambientes ágeis (Scrum), colaborando com QA, desenvolvimento, produto e negócio em refinamentos, validação de requisitos e critérios de aceite.',
-      'Automação de testes por meio de scripts personalizados, com boas práticas de versionamento, reduzindo falhas em produção e acelerando entregas.',
+      'Planejei e executei estratégias, planos e casos de teste orientados a requisitos técnicos, funcionais e de negócio, com foco em prevenir falhas antes que chegassem à produção.',
+      'Investiguei e reproduzi defeitos em profundidade, transformando problemas reportados em diagnósticos técnicos acionáveis para o time de desenvolvimento.',
+      'Documentei bugs em detalhe, apoiei a identificação de causas raiz e acompanhei de perto as correções junto aos desenvolvedores.',
+      'Trabalhei em times ágeis (Scrum), colaborando com QA, desenvolvimento, produto e negócio em refinamentos, validação de requisitos e definição de critérios de aceite.',
+      'Desenvolvi scripts de automação de testes versionados com boas práticas, reduzindo falhas em produção e acelerando as entregas.',
     ],
   },
   {
