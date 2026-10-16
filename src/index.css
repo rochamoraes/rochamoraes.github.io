@@ -501,6 +501,13 @@ p {
 
 /* ---------- Skills ---------- */
 
+.skills__lead {
+  color: var(--text-muted);
+  max-width: 60ch;
+  margin-bottom: 40px;
+  font-size: 1.02rem;
+}
+
 .skills__grid {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
@@ -512,6 +519,10 @@ p {
   border: 1px solid var(--border);
   border-radius: 16px;
   padding: 28px;
+}
+
+.skills__block--wide {
+  grid-column: 1 / -1;
 }
 
 .skills__block h3 {
