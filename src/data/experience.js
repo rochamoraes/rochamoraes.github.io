@@ -7,14 +7,14 @@ export const experience = [
     current: true,
     location: 'Brasília, Distrito Federal, Brasil · No local',
     summary:
-      'Responsável por garantir a qualidade, a segurança e a conformidade de aplicações web durante todo o ciclo de desenvolvimento, combinando testes funcionais, exploratórios e de segurança com análise técnica de causa raiz.',
+      'Atuo na engenharia de qualidade de aplicações web ao longo de todo o ciclo de desenvolvimento, definindo estratégias de teste e garantindo qualidade, segurança e conformidade, com testes funcionais, exploratórios e de segurança apoiados por análise técnica de causa raiz.',
     highlights: [
-      'Planejo e executo estratégias de testes estruturadas em blocos: acessibilidade, disponibilidade, desempenho, segurança e funcionalidade, seguindo checklists de aceite e critérios formais de PoC.',
-      'Conduzo validações funcionais de ponta a ponta em ambiente real, do login com SSO/Auth0 à criação e aprovação de pedidos, identificando falhas de cálculo, regras de negócio e fluxos financeiros críticos.',
-      'Realizo testes de segurança exploratórios: controle de acesso por perfil, IDOR, RBAC, XSS e exposição de dados sensíveis, via inspeção do DOM, console do navegador e tráfego de rede.',
-      'Elaboro matrizes de rastreabilidade conectando cada requisito de aceite ao resultado dos testes, dando visibilidade de cobertura e conformidade a stakeholders técnicos e de negócio.',
-      'Classifico e priorizo defeitos por severidade, documentando reprodução, impacto e recomendações em relatórios completos de QA.',
-      'Proponho melhorias de processo, como ampliação da automação para regras financeiras e reforço das validações de segurança no cliente e no servidor.',
+      'Defino a estratégia de qualidade das aplicações em frentes de acessibilidade, disponibilidade, desempenho, segurança e funcionalidade, estabelecendo checklists de aceite e critérios formais de PoC.',
+      'Valido fluxos críticos de ponta a ponta em ambiente real, da autenticação SSO/Auth0 à criação e aprovação de pedidos, com foco em regras de negócio, cálculos e operações financeiras.',
+      'Executo testes de segurança orientados a risco: controle de acesso por perfil, IDOR, RBAC, XSS e exposição de dados sensíveis, analisando DOM, console do navegador e tráfego de rede.',
+      'Construo matrizes de rastreabilidade entre requisitos de aceite e resultados de testes, dando visibilidade de cobertura e conformidade a stakeholders técnicos e de negócio.',
+      'Faço triagem e priorização de defeitos por severidade e impacto, com análise de causa raiz, passos de reprodução e recomendações técnicas documentadas em relatórios de QA.',
+      'Impulsiono a evolução do processo de qualidade, propondo a ampliação da automação para regras financeiras e o reforço das validações de segurança no cliente e no servidor.',
     ],
   },
   {
