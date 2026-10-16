@@ -636,6 +636,10 @@ p {
   gap: 10px;
 }
 
+.timeline__tools {
+  margin-top: 20px;
+}
+
 .timeline__highlights li {
   position: relative;
   padding-left: 20px;

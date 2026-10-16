@@ -29,6 +29,13 @@ export default function Experience() {
                     <li key={item}>{item}</li>
                   ))}
                 </ul>
+                {job.tools && (
+                  <ul className="skills__tags skills__tags--muted timeline__tools">
+                    {job.tools.map((tool) => (
+                      <li key={tool}>{tool}</li>
+                    ))}
+                  </ul>
+                )}
               </div>
             </li>
           ))}
