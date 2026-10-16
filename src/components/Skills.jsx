@@ -19,6 +19,25 @@ const ENGINEERING_FOCUS = [
   'Modelagem de dados',
 ]
 
+const TOOLS = [
+  {
+    group: 'Automação de testes',
+    items: ['Playwright', 'Selenium', 'Appium', 'TestComplete'],
+  },
+  {
+    group: 'APIs e desempenho',
+    items: ['Postman', 'Insomnia', 'Apache JMeter'],
+  },
+  {
+    group: 'Dados, infra e depuração',
+    items: ['SQL Server', 'PostgreSQL', 'Docker', 'Chrome DevTools'],
+  },
+  {
+    group: 'Versionamento e gestão',
+    items: ['Git', 'GitHub', 'GitLab', 'Jira', 'Freshdesk'],
+  },
+]
+
 const SOFT_SKILLS = [
   'Liderança em qualidade',
   'Comunicação técnica',
@@ -57,6 +76,22 @@ export default function Skills() {
                 <li key={skill}>{skill}</li>
               ))}
             </ul>
+          </div>
+
+          <div className="skills__block skills__block--wide">
+            <h3>🛠️ Ferramentas</h3>
+            <div className="skills__groups">
+              {TOOLS.map(({ group, items }) => (
+                <div key={group}>
+                  <h4 className="skills__group-title">{group}</h4>
+                  <ul className="skills__tags">
+                    {items.map((tool) => (
+                      <li key={tool}>{tool}</li>
+                    ))}
+                  </ul>
+                </div>
+              ))}
+            </div>
           </div>
 
           <div className="skills__block skills__block--wide">
