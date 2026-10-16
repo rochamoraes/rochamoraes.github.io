@@ -7,7 +7,7 @@ export const experience = [
     current: true,
     location: 'Brasília, Distrito Federal, Brasil · No local',
     summary:
-      'Atuo na engenharia de qualidade de aplicações web ao longo de todo o ciclo de desenvolvimento, definindo estratégias de teste e garantindo qualidade, segurança e conformidade, com testes funcionais, exploratórios e de segurança apoiados por análise técnica de causa raiz.',
+      'Lidero a qualidade de aplicações web ao longo de todo o ciclo de desenvolvimento, definindo estratégias de teste e garantindo qualidade, segurança e conformidade, com testes funcionais, exploratórios e de segurança apoiados por análise técnica de causa raiz.',
     highlights: [
       'Defino a estratégia de qualidade das aplicações em frentes de acessibilidade, disponibilidade, desempenho, segurança e funcionalidade, estabelecendo checklists de aceite e critérios formais de PoC.',
       'Valido fluxos críticos de ponta a ponta em ambiente real, da autenticação SSO/Auth0 à criação e aprovação de pedidos, com foco em regras de negócio, cálculos e operações financeiras.',
