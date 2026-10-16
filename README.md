@@ -28,11 +28,11 @@ O site abre em http://localhost:5173.
 | `npm run dev` | Servidor de desenvolvimento |
 | `npm run build` | Gera a versão de produção em `dist/` |
 | `npm run preview` | Serve localmente o conteúdo de `dist/` |
-| `npm run lint` | Verifica o código com ESLint |
+| `npm run lint` | Verifica o código com ESLint (regras em [`eslint.config.js`](eslint.config.js)) |
 
 ## Deploy
 
-Cada push na branch `main` dispara o workflow [`deploy.yml`](.github/workflows/deploy.yml), que gera o build e publica no GitHub Pages. O domínio personalizado é definido em [`public/CNAME`](public/CNAME).
+Cada push na branch `main` dispara o workflow [`deploy.yml`](.github/workflows/deploy.yml), que roda o lint, gera o build e publica no GitHub Pages. Se o lint falhar, o deploy é interrompido e o site continua na versão anterior. O domínio personalizado é definido em [`public/CNAME`](public/CNAME).
 
 ## Licença
 
