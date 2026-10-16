@@ -2,7 +2,7 @@ export default function About() {
   return (
     <section id="sobre" className="section">
       <div className="container">
-        <p className="section__kicker">// sobre</p>
+        <p className="section__kicker">{'// sobre'}</p>
         <h2 className="section__title">Qualidade e engenharia caminhando juntas</h2>
 
         <div className="about__grid">

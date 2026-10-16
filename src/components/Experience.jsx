@@ -5,7 +5,7 @@ export default function Experience() {
   return (
     <section id="experiencia" className="section">
       <div className="container">
-        <p className="section__kicker">// experiência</p>
+        <p className="section__kicker">{'// experiência'}</p>
         <h2 className="section__title">Trajetória profissional</h2>
 
         <ol className="timeline">

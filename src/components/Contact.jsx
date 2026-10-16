@@ -31,7 +31,7 @@ export default function Contact() {
   return (
     <section id="contato" className="section section--alt">
       <div className="container contact">
-        <p className="section__kicker">// contato</p>
+        <p className="section__kicker">{'// contato'}</p>
         <h2 className="section__title">Vamos conversar?</h2>
         <p className="contact__pitch">
           Aberto a trocar uma ideia sobre qualidade de software, automação ou arquitetura de

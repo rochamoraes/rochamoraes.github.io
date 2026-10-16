@@ -21,7 +21,7 @@ export default function Skills() {
   return (
     <section id="foco" className="section section--alt">
       <div className="container">
-        <p className="section__kicker">// foco técnico</p>
+        <p className="section__kicker">{'// foco técnico'}</p>
         <h2 className="section__title">Onde eu entrego mais valor</h2>
 
         <div className="skills__grid">
