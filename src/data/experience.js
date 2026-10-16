@@ -34,7 +34,7 @@ export const experience = [
     ],
   },
   {
-    role: 'Diversas atividades em T.I.',
+    role: 'Desenvolvimento e Suporte em T.I.',
     company: 'Diversas empresas',
     type: 'Tempo integral',
     period: 'jan de 2011 - jul de 2016 · 5 anos 7 meses',
