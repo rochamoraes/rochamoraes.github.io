@@ -34,8 +34,8 @@ export default function Contact() {
         <p className="section__kicker">{'// contato'}</p>
         <h2 className="section__title">Vamos conversar?</h2>
         <p className="contact__pitch">
-          Aberto a trocar uma ideia sobre qualidade de software, automação ou arquitetura de
-          APIs. Fico à disposição pelos canais abaixo.
+          Aberto a trocar ideias sobre qualidade de software, segurança de aplicações,
+          automação de testes e desenvolvimento backend. Fale comigo pelo canal que preferir.
         </p>
 
         <div className="contact__grid">
