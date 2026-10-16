@@ -14,7 +14,7 @@ export default function Hero() {
             <span className="hero__highlight">da Rocha Moraes</span>
           </h1>
           <p className="hero__role">
-            Senior QA Engineer <span className="hero__sep">·</span> Automação, APIs &amp; SQL{' '}
+            Senior QA Engineer <span className="hero__sep">·</span> Automação, APIs, SQL &amp; Segurança{' '}
             <span className="hero__sep">·</span> Backend Engineering
           </p>
           <p className="hero__pitch">
