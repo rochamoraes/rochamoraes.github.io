@@ -40,10 +40,11 @@ export const experience = [
     period: 'jan de 2011 - jul de 2016 · 5 anos 7 meses',
     location: 'Curitiba, Paraná, Brasil · No local',
     summary:
-      'Atuação em desenvolvimento e manutenção de sistemas, suporte técnico e resolução de problemas. Essa foi a base da minha formação técnica.',
+      'Atuei no desenvolvimento e na manutenção de sistemas, no suporte técnico e na resolução de problemas, construindo a base técnica que sustenta minha atuação em qualidade e backend.',
     highlights: [
-      'Rotinas de programação e ajustes em aplicações, com apoio a bancos de dados.',
-      'Construção de uma base sólida em lógica de programação e no ciclo de desenvolvimento de software.',
+      'Desenvolvi rotinas de programação e ajustes em aplicações, apoiando a manutenção e a operação de bancos de dados.',
+      'Diagnostiquei e resolvi problemas técnicos no suporte, desenvolvendo a visão investigativa que hoje aplico na análise de defeitos.',
+      'Consolidei uma base sólida em lógica de programação e no ciclo de desenvolvimento de software.',
     ],
   },
 ]
