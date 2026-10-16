@@ -2,7 +2,7 @@
 
 [![César Augusto da Rocha Moraes — Senior QA Engineer · Quality & Backend](public/og-image.jpg)](https://rochamoraes.digital)
 
-Site pessoal de **César Augusto da Rocha Moraes**, Senior QA Engineer atuando com Automação, APIs, SQL e Engenharia de Software Backend.
+Site pessoal de **César Augusto da Rocha Moraes**, Senior QA Engineer com mais de 15 anos em tecnologia, unindo Quality Engineering, segurança de aplicações, automação, APIs, SQL e backend.
 
 🔗 **https://rochamoraes.digital**
 
