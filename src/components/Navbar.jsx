@@ -4,6 +4,7 @@ const LINKS = [
   { id: 'sobre', label: 'Sobre' },
   { id: 'foco', label: 'Foco técnico' },
   { id: 'experiencia', label: 'Experiência' },
+  { id: 'formacao', label: 'Formação' },
   { id: 'contato', label: 'Contato' },
 ]
 

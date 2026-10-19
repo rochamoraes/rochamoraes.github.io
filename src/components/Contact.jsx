@@ -29,7 +29,7 @@ const CONTACTS = [
 
 export default function Contact() {
   return (
-    <section id="contato" className="section section--alt">
+    <section id="contato" className="section">
       <div className="container contact">
         <p className="section__kicker">{'// contato'}</p>
         <h2 className="section__title">Vamos conversar?</h2>
