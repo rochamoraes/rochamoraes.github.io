@@ -26,10 +26,11 @@ export default function About() {
               robustez, escalabilidade e prevenção de falhas.
             </p>
             <p>
-              Atualmente aprofundo minha atuação em desenvolvimento backend com{' '}
+              Atualmente curso <strong>Engenharia de Software</strong> na Universidade Católica de
+              Brasília e aprofundo minha atuação em desenvolvimento backend com{' '}
               <strong>Node.js</strong>, <strong>TypeScript</strong>, <strong>SQL</strong> e
-              arquitetura de APIs, unindo boas práticas de engenharia de software e pensamento
-              sistêmico à construção de sistemas confiáveis.
+              arquitetura de APIs. Antes, o MBA em IA, Data Science e Big Data no Ibmec reforçou
+              minha visão orientada a dados.
             </p>
           </div>
 
