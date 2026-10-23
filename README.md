@@ -21,6 +21,17 @@ As ferramentas que uso no dia a dia, como aparecem na seção *Foco técnico* do
 
 A lista do site fica em [`src/components/Skills.jsx`](src/components/Skills.jsx), e as ferramentas de cada experiência em [`src/data/experience.js`](src/data/experience.js).
 
+## Formação
+
+| Período | Curso | Instituição |
+|---|---|---|
+| 2025 – 2029 (em andamento) | Bacharelado em Engenharia de Software | Universidade Católica de Brasília |
+| 2022 – 2023 | MBA em IA, Data Science e Big Data para Negócios | Ibmec |
+| 2020 – 2022 | Tecnólogo em Banco de Dados | UNINTER Centro Universitário Internacional |
+| 2012 – 2014 | Tecnólogo em Análise e Desenvolvimento de Sistemas | Universidade Positivo (UP) |
+
+Os dados da seção *Formação* do site ficam em [`src/data/education.js`](src/data/education.js).
+
 ## Tecnologias do site
 
 - [React](https://react.dev) 18
