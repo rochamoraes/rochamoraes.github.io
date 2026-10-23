@@ -1,4 +1,8 @@
+import { careerStartDate } from '../data/experience'
+import { yearsSince } from '../utils/duration'
+
 export default function About() {
+  const years = yearsSince(careerStartDate)
   return (
     <section id="sobre" className="section">
       <div className="container">
@@ -8,7 +12,7 @@ export default function About() {
         <div className="about__grid">
           <div className="about__text">
             <p>
-              Sou <strong>Senior QA Engineer</strong> com mais de 15 anos de experiência em
+              Sou <strong>Senior QA Engineer</strong> com mais de {years} anos de experiência em
               tecnologia. Hoje lidero a qualidade de aplicações web, da estratégia de testes à
               validação em produção, e venho expandindo minha atuação para a Engenharia de
               Software com foco em Backend.

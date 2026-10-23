@@ -30,6 +30,10 @@ function formatDuration(startDate) {
   return parts.join(' e ')
 }
 
+export function yearsSince(startDate) {
+  return Math.floor(Math.max(monthsBetween(parseLocalDate(startDate), new Date()), 0) / 12)
+}
+
 export function formatOngoingPeriod(startDate) {
   const start = parseLocalDate(startDate)
   return `${formatMonthYear(start)} - até o momento · ${formatDuration(startDate)}`

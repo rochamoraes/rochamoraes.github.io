@@ -1,6 +1,9 @@
 import profile from '../assets/profile.jpg'
+import { careerStartDate } from '../data/experience'
+import { yearsSince } from '../utils/duration'
 
 export default function Hero() {
+  const years = yearsSince(careerStartDate)
   return (
     <section id="top" className="hero">
       <div className="hero__glow" aria-hidden="true" />
@@ -18,7 +21,7 @@ export default function Hero() {
             <span className="hero__sep">·</span> Backend Engineering
           </p>
           <p className="hero__pitch">
-            Mais de 15 anos em tecnologia unindo Quality Engineering e Engenharia de Software:
+            Mais de {years} anos em tecnologia unindo Quality Engineering e Engenharia de Software:
             lidero a qualidade de aplicações web e aprofundo minha atuação em backend, com
             pensamento sistêmico, validações sólidas e arquitetura bem estruturada para construir
             sistemas confiáveis.
@@ -43,7 +46,7 @@ export default function Hero() {
             <img src={profile} alt="Foto de César Augusto da Rocha Moraes" />
           </div>
           <div className="hero__badge">
-            <span className="hero__badge-number">15+</span>
+            <span className="hero__badge-number">{years}+</span>
             <span className="hero__badge-label">anos em tecnologia</span>
           </div>
         </div>

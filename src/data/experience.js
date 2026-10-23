@@ -1,3 +1,5 @@
+export const careerStartDate = '2011-01-01'
+
 export const experience = [
   {
     role: 'Senior QA Engineer',
